@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Samala+Yasaswini;Computer+Science+Undergrad;Full-Stack+%26+Backend+Dev;1778+Max+Rating+on+LeetCode;3+star+coder+on+CodeChef" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Samala+Yasaswini;Computer+Science+Undergrad;Full-Stack+%26+Backend+Dev;1778+Max+Rating+on+LeetCode;3+Star+coder+on+CodeChef" alt="Typing SVG" />
   
   <p align="center">
     <strong>Computer Science Undergraduate (Class of 2027) | Passionate Backend & Full-Stack Developer</strong>
