@@ -75,19 +75,19 @@
 - **Description:** Developed a clean, maintainable MVC architecture notes system with 7 secure REST API endpoints, user-specific data access controls, and robust authentication layers.
 - **Tech Stack:** `Node.js`, `Express.js`, `MongoDB`, `Mongoose ODM`, `JWT`, `Bcrypt Encryption`
 - **Key Highlight:** Implemented secure route guards and password hashing to ensure top-tier user-specific data isolation.
-- 🔗 <!-- Replace with your actual repo/live links --> [GitHub Repository](https://github.com/your-username/NoteHive) • [Live Demo](https://your-live-link.com)
+- 🔗 <!-- Replace with your actual repo/live links --> [GitHub Repository](https://github.com/yasaswini1408/NoteHive) • [Live Demo](https://notehive365.netlify.app/)
 
 ###  TinyShift | AI-Powered Activity Assistant
 - **Description:** Built an intelligent context-aware suggestion tool that pools real-time data and parses customized AI recommendations dynamically based on a user's time limit and mood.
 - **Tech Stack:** `Node.js`, `Groq AI API (Llama 3.3-70B)`, `OpenWeatherMap API`, `Vercel Serverless`
 - **Key Highlight:** Designed a custom backend prompt orchestration pipeline to lock responses into a strict structured layout for flawless client-side parsing while securing API keys using Vercel Serverless functions.
-- 🔗 [GitHub Repository](https://github.com/your-username/TinyShift) • [Live Demo](https://your-live-link.com)
+- 🔗 [GitHub Repository](https://github.com/yasaswini1408/TinyShift) • [Live Demo](https://tiny-shift.vercel.app/)
 
 ###  Campus Connect | Communication Platform
 - **Description:** Engineered a centralized portal to handle seamless event coordination and user workflows across a college setting. 
 - **Tech Stack:** `HTML5`, `CSS3`, `JavaScript`, `Node.js`, `Express.js`, `REST APIs`
 - **Key Highlight:** Created adaptive, fully-responsive layout sheets rigorously verified across extreme mobile and desktop layout viewports.
-- 🔗 [GitHub Repository](https://github.com/your-username/Campus_Connect) • [Live Demo](https://your-live-link.com)
+- 🔗 [GitHub Repository](https://github.com/yasaswini1408/Campus_Connect) • [Live Demo](https://campus-connect-qpma.onrender.com/)
 
 ---
 
