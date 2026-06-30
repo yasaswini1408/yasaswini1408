@@ -120,4 +120,7 @@
     I'm always happy to discuss software engineering, backend development,
     open-source, or exciting internship opportunities.
   </p>
+  <br>
+
+  <img src="https://komarev.com/ghpvc/?username=yasaswini1408&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views" />
 </div>
