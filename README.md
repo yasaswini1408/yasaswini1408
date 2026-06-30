@@ -8,9 +8,9 @@
 
   <p align="center">
     <a href="mailto:yasaswinisamala2005@gmail.com"><img src="https://img.shields.io/badge/Email-yasaswinisamala2005%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
-    <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-    <a href="https://leetcode.com/your-leetcode-username"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode" alt="LeetCode"/></a>
-    <a href="https://www.codechef.com/users/your-codechef-username"><img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20(1611)-734F30?style=flat-square&logo=codechef" alt="CodeChef"/></a>
+    <a href="https://www.linkedin.com/in/yasaswini-samala-8007022a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+    <a href="https://leetcode.com/yasaswini14"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode" alt="LeetCode"/></a>
+    <a href="https://www.codechef.com/users/yasaswini_05"><img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20(1611)-734F30?style=flat-square&logo=codechef" alt="CodeChef"/></a>
   </p>
 </div>
 
